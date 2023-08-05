@@ -55,3 +55,14 @@ section{
     background-color: #282e34;
     color: #ddd;
 }
+@media (max-width: 786px) {
+    body{
+        font-size: 12px;
+    }
+    .p-text{
+        font-size: 15px;
+    }
+    section{
+        padding: 25px 50px;
+    }
+}
